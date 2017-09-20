@@ -4,7 +4,7 @@ https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
 unpack train data to {notebooks_dir}/data/train
 unpack test data to {notebooks_dir}/data/test
 
-run all cells in data_prepare.ipynb (if you want to fool around uncomment commented lines in #prepare playground folder cell)
+run all cells in data_prepare.ipynb
 
 data should have proper structure
 
